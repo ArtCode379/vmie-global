@@ -2,10 +2,18 @@ package shop.vmieglobal.app.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// VMIE Global brand colors — Outdoor & Sports
+val GreenDark = Color(0xFF1B5E20)
+val GreenMedium = Color(0xFF2E7D32)
+val GreenLight = Color(0xFF4CAF50)
+val GreenPale = Color(0xFFE8F5E9)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val TealDark = Color(0xFF00695C)
+val TealMedium = Color(0xFF00897B)
+
+val AmberAccent = Color(0xFFFF8F00)
+val AmberLight = Color(0xFFFFF8E1)
+
+val SurfaceLight = Color(0xFFF9FBF9)
+val OnSurfaceDark = Color(0xFF1C2B1E)
+val OutlineGreen = Color(0xFFA5D6A7)
